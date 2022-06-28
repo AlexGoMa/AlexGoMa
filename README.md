@@ -21,7 +21,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-#### You can contact me:
+---
+
+### You can contact me:
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/alexgomar/">
@@ -29,6 +31,16 @@
   </a>
 </div>
 
+---
+
+### My stats:
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexGoMa&theme=flag-india)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGoMa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 <!--
 **AlexGoMa/AlexGoMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

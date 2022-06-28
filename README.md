@@ -1,8 +1,8 @@
 ### Hi there, I'm Alex a computer engineer from Barcelona.
 
-#### I got my degree in 2005 and, and for the following 16 years I have been working in Banking. Last year I decided to change my professional career, and joined ISDI Coders Bootcamp to update my knowledge
+#### I got my degree in 2005, and for the following 16 years I have been working in Banking. Last year I decided to change my professional career and follow my passion, joined ISDI Coders Bootcamp to update my knowledge and improve my skills.
 
-### Languages and tools I use:
+### ⚒ Languages and tools I use:
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;

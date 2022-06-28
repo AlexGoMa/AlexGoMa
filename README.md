@@ -39,7 +39,7 @@
 ### My stats:
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexGoMa&theme=flag-india)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexGoMa&theme=ayu-light)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGoMa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -41,12 +41,14 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexGoMa&theme=ayu-light)](https://git.io/streak-stats)
 
+![AlexGoMa GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGoMa&show_icons=true&theme=ayu-light)
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGoMa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <!--
 
-![AlexGoMa GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGoMa&show_icons=true&theme=flag-india)
+![AlexGoMa GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGoMa&show_icons=true&theme=ayu-light)
 **AlexGoMa/AlexGoMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

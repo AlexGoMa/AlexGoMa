@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex a computer engineer from Barcelona.
 
-#### I got my degree in 2005, and for the following 16 years I have been working in Banking. Last year I decided to change my professional career and follow my passion, joined ISDI Coders Bootcamp to update my knowledge and improve my skills.
+#### I got my degree in 2005, and for the following 16 years I have been working in Banking as a sales manager (!?). Last year I decided to change my professional career and follow my passion, joined ISDI Coders Bootcamp to update my knowledge and improve my skills.
 
 ### ⚒ Languages and tools I use:
 
